@@ -1,0 +1,27 @@
+body {
+  background-color: gray;
+}
+.stars ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.star {
+  font-size: 2em;
+  color: #ddd;
+  display: inline-block;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.orange {
+  color: orange;
+}
+.output {
+  background-color: #ddd;
+}
+.container {
+  text-align: center;
+}
+h2 {
+  color: white;
+}
